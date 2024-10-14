@@ -1,0 +1,8 @@
+.banner3 {
+  width: 1600px;
+  height: 500px;
+  background-image: url("../../dist/img/img-9.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

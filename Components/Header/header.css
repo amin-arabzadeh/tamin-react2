@@ -1,0 +1,10 @@
+.btn1{
+    transition: all 150ms linear 1ms;
+    border: 1px solid #cecece;
+}
+
+
+.btn1:hover{
+    background-color: red !important;
+    color: white;
+}
